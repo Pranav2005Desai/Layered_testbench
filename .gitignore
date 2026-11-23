@@ -1,0 +1,17 @@
+# VCS
+csrc/
+simv*
+ucli.key
+vc_hdrs.h
+*.vpd
+*.fsdb
+# Questa
+work/
+transcript
+*.wlf
+qrun.out/
+# Verilator
+obj_dir/
+# Waveforms and logs
+*.vcd
+*.log
